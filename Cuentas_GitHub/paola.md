@@ -162,7 +162,7 @@ SO-Seguridad-2026
 *(Insertar aquí la captura donde se visualice el nombre del repositorio, su descripción y que la visibilidad es privada.)*
 
 ![Repositorio privado creado](https://github.com/BeyondNate/TareaSistemasOperativosSem13/blob/ee9fc16b2a40b619e207b534de7406a4427defa6/Cuentas_GitHub/Imagenes/Paola/Captura2.png)
-![Repositorio privado creado]()
+![Repositorio privado creado](https://github.com/BeyondNate/TareaSistemasOperativosSem13/blob/0551f86ad52c51ff5e8560332d3225daf437df33/Cuentas_GitHub/Imagenes/Paola/Captura3.png)
 
 ---
 
