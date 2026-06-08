@@ -29,6 +29,10 @@ git config --list
 ### Evidencia
 Captura mostrando la configuración realizada.
 
+Verenisse: 
+
+
+
 ## Parte 3: Creación de Repositorio Privado
 Cada estudiante deberá crear un repositorio denominado:
 SO-Seguridad-2026
