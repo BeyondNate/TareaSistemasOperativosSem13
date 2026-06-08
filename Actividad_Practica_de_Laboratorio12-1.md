@@ -65,6 +65,11 @@ Cada carpeta contendrá:
 - Resultados obtenidos
 - Análisis
 
+- ***Brad:***
+- <img src="Cuentas_GitHub/Imagenes/Brad/CreacionUsetGit.png" width="700">
+- <img src="Cuentas_GitHub/Imagenes/Brad/CreacionCarpetasGithub.png" width="700">
+- <img src="Cuentas_GitHub/Imagenes/Brad/RepositorioPrivado.png" width="700">
+
 ## Parte 5: Protección de Datos Sensibles
 Crear archivo:
 touch .gitignore
