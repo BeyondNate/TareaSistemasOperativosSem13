@@ -127,7 +127,7 @@ hashes.txt
 Subir archivo al repositorio.
 ### Objetivo
 Garantizar que las evidencias no han sido modificadas.
-
+- <img src="Cuentas_GitHub/Imagenes/Brad/subidaFinal.png" width="700">
 
 ## Parte 9: Gestión de Permisos
 El estudiante deberá:
