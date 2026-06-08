@@ -108,7 +108,7 @@ user.email=correo@ejemplo.com
 **Captura de pantalla:**
 *(Insertar aquí la captura mostrando la ejecución de `git config --list` con los datos configurados)*
 
-![Configuración de Git](ruta/de/la/imagen.png)
+![Configuración de Git](https://github.com/BeyondNate/TareaSistemasOperativosSem13/blob/156317053ff4dc183c2397a4147a58317ceb6764/Cuentas_GitHub/Imagenes/Paola/Captura1.png)
 
 ---
 
