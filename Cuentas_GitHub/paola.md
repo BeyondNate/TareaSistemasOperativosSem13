@@ -169,3 +169,42 @@ SO-Seguridad-2026
 ## Conclusión
 
 Se creó correctamente el repositorio **SO-Seguridad-2026** con configuración privada, restringiendo el acceso público y permitiendo un entorno seguro para el desarrollo y almacenamiento de las actividades del curso.
+
+# Parte 4: Organización Segura de Evidencias
+
+## Objetivo
+Organizar de manera estructurada y segura todas las evidencias generadas durante el desarrollo del curso, facilitando su almacenamiento, seguimiento y revisión.
+
+## Estructura de Directorios
+
+```text
+SO-Seguridad-2026/
+│
+├── Capitulo1/
+├── Capitulo2/
+├── Capitulo3/
+├── Capitulo4/
+├── Capitulo5/
+├── Capitulo6/
+└── Informe_Final/
+```
+
+## Contenido de Cada Carpeta
+
+Cada capítulo deberá contener la siguiente información:
+
+```text
+CapituloX/
+│
+├── Capturas/
+├── Comandos_Ejecutados/
+├── Resultados_Obtenidos/
+└── Analisis/
+```
+
+### Descripción
+
+- **Capturas:** Imágenes que evidencien la realización de las actividades.
+- **Comandos_Ejecutados:** Registro de los comandos utilizados durante las prácticas.
+- **Resultados_Obtenidos:** Salidas, reportes o resultados generados por los comandos ejecutados.
+- **Analisis:** Interpretación y explicación de los resultados obtenidos.
