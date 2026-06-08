@@ -1,4 +1,4 @@
-Actividad Complementaria: Gestión Segura de Evidencias con Git y GitHub
+<img width="1658" height="793" alt="imagen" src="https://github.com/user-attachments/assets/3752eb8c-8c8a-4ba1-a343-1c972feb18e2" />Actividad Complementaria: Gestión Segura de Evidencias con Git y GitHub
 ### Objetivo
 Aplicar mecanismos de protección de la información mediante el uso de control de versiones, autenticación y repositorios privados para almacenar evidencias de las prácticas realizadas en Linux.
 
@@ -91,6 +91,7 @@ Archivos sensibles
 Captura del archivo .gitignore.
 - ***Brad:***
 - <img src="Cuentas_GitHub/Imagenes/Brad/CrearGitIgnore.png" width="700">
+- <img src="Cuentas_GitHub/Imagenes/Brad/EnviarGitIgnore.png" width="700">
 
 ## Parte 6: Generación de Claves SSH
 Generar clave SSH:
