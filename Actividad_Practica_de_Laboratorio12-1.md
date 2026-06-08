@@ -89,6 +89,8 @@ Certificados
 Archivos sensibles
 ### Evidencia
 Captura del archivo .gitignore.
+- ***Brad:***
+- <img src="Cuentas_GitHub/Imagenes/Brad/CrearGitIgnore.png" width="700">
 
 ## Parte 6: Generación de Claves SSH
 Generar clave SSH:
