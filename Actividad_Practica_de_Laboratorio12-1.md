@@ -45,6 +45,8 @@ Sin acceso público
 Descripción del curso
 ### Evidencia
 Captura del repositorio creado.
+- Brad:
+- <img src="Cuentas_GitHub/Imagenes/Brad/RepositorioPrivado.png" width="700">
 
 ## Parte 4: Organización Segura de Evidencias
 Crear la siguiente estructura:
