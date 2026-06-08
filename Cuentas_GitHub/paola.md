@@ -29,7 +29,7 @@ Crear y configurar una cuenta de GitHub con medidas de seguridad adecuadas, incl
 
 ### Evidencia 3: Perfil Configurado
 
-![Perfil configurado](https://github.com/BeyondNate/TareaSistemasOperativosSem13/blob/6f0240cbcb699109f16887cc84a3954b671715be/Cuentas_GitHub/Imagenes/perfil_Paola.png)
+![Perfil configurado](https://github.com/BeyondNate/TareaSistemasOperativosSem13/blob/dae5f43eeda74c2175ce4a9df8929409e6852d3c/Cuentas_GitHub/Imagenes/Paola/perfil_Paola.png)
 
 ---
 
