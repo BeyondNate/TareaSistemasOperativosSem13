@@ -30,7 +30,7 @@ git config --list
 Captura mostrando la configuración realizada.
 
 Verenisse: 
-<img src="Cuentas_GitHub/Imagenes/Imagen1.png" width="700">
+<img src="Cuentas_GitHub/Imagenes/Verenisse/Imagen1.png" width="700">
 
 
 ## Parte 3: Creación de Repositorio Privado
