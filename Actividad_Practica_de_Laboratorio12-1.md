@@ -116,6 +116,8 @@ Asociar repositorio remoto:
 git remote add origin https://github.com/usuario/SO-Seguridad-2026.git
 Enviar evidencias:
 git push -u origin main
+- <img src="Cuentas_GitHub/Imagenes/Brad/SubiraGitHubTodo.png" width="700">
+- <img src="Cuentas_GitHub/Imagenes/Brad/subidaGithub.png" width="700">
 
 ## Parte 8: Control de Integridad
 Generar hash SHA-256 de evidencias importantes:
