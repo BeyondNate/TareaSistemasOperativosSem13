@@ -138,6 +138,7 @@ Otorgar permiso de lectura al docente.
 Captura de:
 Collaborators.
 Permisos asignados.
+- <img src="Cuentas_GitHub/Imagenes/Brad/EnviarAlProfe.png" width="700">
 
 ## Parte 10: Informe Final de Seguridad
 Cada estudiante elaborará un informe indicando:
@@ -154,3 +155,4 @@ Git.
 GitHub privado.
 SSH.
 Autenticación de dos factores.
+
