@@ -161,7 +161,8 @@ SO-Seguridad-2026
 **Captura de pantalla:**
 *(Insertar aquí la captura donde se visualice el nombre del repositorio, su descripción y que la visibilidad es privada.)*
 
-![Repositorio privado creado](ruta/de/la/imagen.png)
+![Repositorio privado creado](https://github.com/BeyondNate/TareaSistemasOperativosSem13/blob/ee9fc16b2a40b619e207b534de7406a4427defa6/Cuentas_GitHub/Imagenes/Paola/Captura2.png)
+![Repositorio privado creado]()
 
 ---
 
