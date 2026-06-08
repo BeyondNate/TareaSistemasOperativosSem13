@@ -115,3 +115,56 @@ user.email=correo@ejemplo.com
 ## Conclusión
 
 Se instaló correctamente Git en el sistema Linux y se realizó la configuración inicial del usuario, estableciendo el nombre y correo electrónico que serán utilizados para identificar los cambios realizados en los repositorios.
+
+# Parte 3: Creación de Repositorio Privado
+
+## Objetivo
+Crear un repositorio privado en GitHub para almacenar y gestionar las actividades del curso de forma segura.
+
+## Creación del Repositorio
+
+### Nombre del Repositorio
+
+```text
+SO-Seguridad-2026
+```
+
+### Configuración del Repositorio
+
+- **Nombre:** SO-Seguridad-2026
+- **Visibilidad:** Privado
+- **Acceso público:** Deshabilitado
+- **Descripción:** Repositorio del curso de Seguridad de Sistemas Operativos 2026.
+- **Inicialización:** Opcionalmente se puede crear con un archivo README.md.
+
+## Procedimiento
+
+1. Iniciar sesión en GitHub.
+2. Hacer clic en **New Repository**.
+3. Ingresar el nombre:
+
+   ```text
+   SO-Seguridad-2026
+   ```
+
+4. Agregar la descripción del curso.
+5. Seleccionar la opción **Private**.
+6. Verificar que el repositorio no tenga acceso público.
+7. Crear el repositorio.
+
+---
+
+## Evidencia
+
+### Captura del Repositorio Creado
+
+**Captura de pantalla:**
+*(Insertar aquí la captura donde se visualice el nombre del repositorio, su descripción y que la visibilidad es privada.)*
+
+![Repositorio privado creado](ruta/de/la/imagen.png)
+
+---
+
+## Conclusión
+
+Se creó correctamente el repositorio **SO-Seguridad-2026** con configuración privada, restringiendo el acceso público y permitiendo un entorno seguro para el desarrollo y almacenamiento de las actividades del curso.
