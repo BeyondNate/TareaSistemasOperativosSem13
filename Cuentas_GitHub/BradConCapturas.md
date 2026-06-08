@@ -30,9 +30,8 @@ Captura mostrando la configuración realizada.
 
 
 - Brad:
-- <img src="./Cuentas_GitHub/Imagenes/Brad/CrearGit.png" width="700">
-- <img src="./Cuentas_GitHub/Imagenes/Brad/ComprobarGit.png" width="700">
-
+- <img src="Cuentas_GitHub/Imagenes/Brad/CrearGit.png" width="700">
+- <img src="Cuentas_GitHub/Imagenes/Brad/ComprobarGit.png" width="700">
 
 ## Parte 3: Creación de Repositorio Privado
 Cada estudiante deberá crear un repositorio denominado:
