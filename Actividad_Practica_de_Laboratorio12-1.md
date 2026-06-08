@@ -101,6 +101,9 @@ cat ~/.ssh/id_ed25519.pub
 Registrar la clave en GitHub.
 ### Evidencia
 Captura de la clave agregada en GitHub.
+- ***Brad:***
+- <img src="Cuentas_GitHub/Imagenes/Brad/EnviarGitIgnore.png" width="700">
+- <img src="Cuentas_GitHub/Imagenes/Brad/EnviarGitIgnore.png" width="700">
 
 ## Parte 7: Subida de Evidencias
 Inicializar repositorio:
